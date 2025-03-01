@@ -1,0 +1,9 @@
+.dragging {
+    opacity: 0.6;
+    cursor: grabbing;
+}
+
+.drag-over {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+} 
